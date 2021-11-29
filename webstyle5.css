@@ -7,12 +7,6 @@ html, body, div, span {
   vertical-align: baseline;
   text-decoration: none;
 }
-
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block;
-}
-
 html {
   height: 100%;
 }
