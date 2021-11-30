@@ -74,16 +74,15 @@ ol, ul {
   to { opacity: 0.0; }
 }
 body {
-  /* background-color: rgb(83, 25, 190); */
   background-image: url("starbg.jpg");
- background-repeat: no-repeat;
-    background-position: 0px 0px;
-    background-attachment: fixed;
-    background-color: #fff;
-    -webkit-background-size: calc(100vw) calc(100vh);
-    -moz-background-size: calc(100vw) calc(100vh);
-    -o-background-size: calc(100vw) calc(100vh);
-    background-size: calc(100vw) calc(100vh);
+ -webkit-background-size: 100%; 
+-moz-background-size: 100%; 
+-o-background-size: 100%; 
+background-size: 100%; 
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover;
 }
 .input_
 {
