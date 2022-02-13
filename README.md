@@ -1,2 +1,2 @@
 # github.io
-Лабораторна робота 7
+Magic Ball
